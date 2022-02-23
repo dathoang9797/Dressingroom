@@ -1,0 +1,1 @@
+export const FETCH_COURSES_API = ' FETCH_COURSES_API';
